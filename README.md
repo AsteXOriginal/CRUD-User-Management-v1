@@ -4,14 +4,14 @@ A simple Python console-based application to perform Create, Read, Update, and D
 
 ## About
 
-The CRUD User Management App allows simple user authentication and management. Users can register their values (whole numbers), change their values,
-remove their entries from the database, and even clear the entire user database.
+The CRUD User Management App allows simple user authentication and management. Users can register their value (whole number), change their value,
+remove their value from the database, and even display the entire list.
 
 ## Features
 - **User Registration:** Allows users to register their value into the user database.
 - **Password Modification:** Users can change their existing values.
 - **User Removal:** A user can remove their entry from the user database.
-- **Database Clearance:** A user can clear the entire user database.
+- **Database Display:** A user can display the entire list.
 ## Getting Started
 
 To get a local copy up and running follow these simple steps:
